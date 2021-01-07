@@ -1,0 +1,6 @@
+C:\Users\ahmed.zeb\source\repos\RayeroWeb\kafkaProducerConsumer\obj\Debug\net5.0\kafkaProducerConsumer.csprojAssemblyReference.cache
+C:\Users\ahmed.zeb\source\repos\RayeroWeb\kafkaProducerConsumer\obj\Debug\net5.0\kafkaProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed.zeb\source\repos\RayeroWeb\kafkaProducerConsumer\obj\Debug\net5.0\kafkaProducerConsumer.AssemblyInfoInputs.cache
+C:\Users\ahmed.zeb\source\repos\RayeroWeb\kafkaProducerConsumer\obj\Debug\net5.0\kafkaProducerConsumer.AssemblyInfo.cs
+C:\Users\ahmed.zeb\source\repos\RayeroWeb\kafkaProducerConsumer\obj\Debug\net5.0\kafkaProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.zeb\source\repos\RayeroWeb\kafkaProducerConsumer\obj\Debug\net5.0\kafkaProducerConsumer.MvcApplicationPartsAssemblyInfo.cache

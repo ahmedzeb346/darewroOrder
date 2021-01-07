@@ -1,0 +1,21 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/Order",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 19001
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/Order",
+      "UpstreamHttpMethod": [ "POST", "PUT", "GET" ]
+    }
+  
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:44382"
+  }
+
+}
